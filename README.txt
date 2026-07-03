@@ -1,3 +1,4 @@
+IMPLEMENTED PRIMS AND KRUSKALS ALGORITHM
 SOFTASSIGN3/
 
  here we have created separate modules for each
